@@ -1,0 +1,5 @@
+v5 - improved topic identification prompt using guidlines on how to best identify topics. 
+v4 - topics (4o) dedup (3.5) descriptions (4o)
+v3 - topics (4o-mini) dedup (3.5) descriptions (4o)
+v2 - topics (4o-mini) dedup (3.5) descriptions (3.5) - word limit and incorporate video name into descriptions
+v1 - topics (4o-mini) dedup (3.5) descriptions (3.5)
